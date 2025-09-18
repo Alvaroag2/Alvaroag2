@@ -64,6 +64,10 @@
   <a href="https://www.linkedin.com/in/alvaro-garcia-garcia-26423a240" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
+
+  <a href="https://alvaroag2.github.io/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/213911327-5a601c12-6f7d-4e0a-a8c0-8e641eeafaa7.gif" height="35" alt="portfolio logo" />
+  </a>
 </div>
 
 
