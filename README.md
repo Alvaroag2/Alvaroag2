@@ -66,7 +66,7 @@
   </a>
 
   <a href="https://alvaroag2.github.io/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/213911327-5a601c12-6f7d-4e0a-a8c0-8e641eeafaa7.gif" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
